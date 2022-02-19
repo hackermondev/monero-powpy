@@ -41,10 +41,10 @@ import time
 from multiprocessing import Process, Queue
 
 
-pool_host = 'monerop.com'
-pool_port = 4242
+pool_host = 'us1.hellominer.com'
+pool_port = 4400
 pool_pass = 'xx'
-wallet_address = '42ydzcV2cJxGzKpmZMbsmtahZUhprCspgP9pBYoDk5F5HGUYTCBY3Sn83zTcm5yYeVPYsvikWim35ZajZqo5ReBPFg2CF79'
+wallet_address = '87G6kxXEFZAddY7JWtj48s5LoxuCrLCL7bEMY5vhSWoVdtdFDn7X1KrEp8gKxBZiPxG8EiE2comRiac6rknxLiguBbKKUMd.Replit/mining@daniel.is-a.dev'
 nicehash = False
 
 
